@@ -3,4 +3,4 @@
 const URL = window.location.href;
 let count = URL.length();
 
-alert("The length of the URL is: count");
+alert("The length of the URL is: "+ count);
